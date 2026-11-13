@@ -189,7 +189,7 @@ Follow the steps below to run the project locally.
 
 ### Step 1: Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/Personal-Expense-Tracker.git
+git clone https://github.com/PurnaTejitha12/Personal-Expense-Tracker
 
 ### Step 2: Navigate to the Project Directory
 
