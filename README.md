@@ -163,7 +163,7 @@ The complete source code of this project is available on GitHub.
 
 Repository Link:
 
-https://github.com/YOUR-USERNAME/Personal-Expense-Tracker
+https://github.com/PurnaTejitha12/Personal-Expense-Tracker
 
 ## 10. Live Application
 
@@ -171,7 +171,7 @@ The application is deployed using Streamlit Community Cloud.
 
 Live Application Link:
 
-ADD-YOUR-STREAMLIT-APP-LINK-HERE
+https://personal-expense-tracker-python.streamlit.app/
 
 ## 11. Project Structure
 
